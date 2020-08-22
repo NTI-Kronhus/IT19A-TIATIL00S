@@ -1,8 +1,9 @@
 ```markdown
-Du ska nu installera olika verktyg vi kommer använda i kursen, skapa ett konto på github samt ett första repo.  
+Du ska nu installera olika verktyg vi kommer använda i kursen, 
+skapa ett konto på github samt ett första repo.  
 Följ stegen nedan i rätt ordning och var uppmärksam på detaljer!
 ```
-## Har du redan laddat ner och installerat Visual Studio Code kan du hoppa över nästa steg
+## Har du redan laddat ner och installerat Visual Studio Code kan du hoppa över detta steg
 1. Ladda hem och installera Visual Studio Code <a href="https://code.visualstudio.com/docs/?dv=win64user" target="_blank">här</a>. 
 2. Fullfölj installationen med standardinställningar.
 
